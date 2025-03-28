@@ -2,7 +2,7 @@
     "name": "WeatherFlow to MQTT",
     "description": "WeatherFlow to MQTT for Home Assistant",
     "slug": "weatherflow2mqtt",
-    "url": "https://github.com/PetrDa/hass-weatherflow2mqtt",
+    "url": "https://github.com/PetrDa/weatherflow2mqtt",
     "image": "PetrDa/weatherflow2mqtt",
     "version": "3.2",
     "arch": [
